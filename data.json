@@ -1,9 +1,9 @@
 {
 	"details":{
-		"name":"prabhu",
+		"name":"Rakesh",
 		"image":"123.png",
 		"phone":"0123456789",
-		"email":"prabhukiran720@gmail.com"
+		"email":"rakesh.tatukuri179@gmil.com"
 },
 "education":[
 {
@@ -15,13 +15,13 @@
 {
 
 	"course":"inter(mpc)",
-	"college":"narayana",
+	"college":"KRB",
 	"per":"85%"
 
 },
 {
 	"course":"ssc",
-	"college":"bps",
+	"college":"sanskriti",ccccc
 	"per":"88%"
 
 }
