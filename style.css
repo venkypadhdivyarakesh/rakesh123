@@ -1,0 +1,47 @@
+.main{
+	width:100%;
+	background-color: white;
+	display:flex;
+	justify-content: center;
+	text-align: center;
+}
+.left{
+	width: 25%;
+	border:3px solid #2df;
+	box-shadow: 3px 3px 3px yellow;
+	margin: 1%;
+	padding: 1%;
+	background-color: white;  
+}
+.right{
+	width:75%;
+	border:3px solid #00f;
+	box-shadow: 3px 3px 3px orange;
+	margin: 1%;
+	padding: 1%;
+	background-color: yellow;
+}
+img{
+	width: 300px;
+}
+h1,
+h2,
+h3{
+	font-size: 33px;
+}
+@media only screen and (min-width: 1025px) and (max-width: 480px){
+	.main{
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.left{
+		width: 88%;
+	}
+}
+@media only screen and (max-width: 1024px){
+	.main{
+		display: flex;
+		flex-direction: colomn;
+
+	}
+}

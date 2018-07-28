@@ -1,0 +1,43 @@
+{
+	"details":{
+		"name":"prabhu",
+		"image":"123.png",
+		"phone":"0123456789",
+		"email":"prabhukiran720@gmail.com"
+},
+"education":[
+{
+	"course":"B.Tech(CSE)",
+	"college":"MIC college",
+	"per":"78%"
+
+},
+{
+
+	"course":"inter(mpc)",
+	"college":"narayana",
+	"per":"85%"
+
+},
+{
+	"course":"ssc",
+	"college":"bps",
+	"per":"88%"
+
+}
+	],
+"skills":[
+{	"title":"programming languages",
+	"output":[
+		"c","c++","java","python"
+	]
+},
+{
+	"title":"operating systems",
+	"output":[
+		"windows","linux","MAC"
+	]
+}
+]
+
+}
